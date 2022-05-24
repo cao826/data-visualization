@@ -1,0 +1,10 @@
+name: data-vis-basic
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.10
+  - numpy
+  - pandas
+  - ipykernel
+prefix: /Users/carlosolivares/opt/anaconda3/envs/data-vis-basic
